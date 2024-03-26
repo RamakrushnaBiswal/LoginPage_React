@@ -7,7 +7,7 @@ export default function Index() {
         <div>
             <h1 className="text-center mt-5 text-muted">Hi buddy💥</h1>
 
-            <div className="text-center mt-5 d-flex justify-content-center">
+            <div className="text-center mt-5 d-flex justify-content-center me-5">
                 <button
                     className="btn btn-primary"
                     onClick={() => {navigate("/login")}}>
